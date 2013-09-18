@@ -8,6 +8,3 @@ I use
 - Markdown Plugin (forgot the exact name, there are some)
 - Wordcount Plugin
 - Markdown Preview Plugin (for the exact name, check out google. Will update this later)
-- 
-
-
