@@ -1,4 +1,4 @@
-# Artile on Leadership
+# Article on Leadership
 I wanted to try out github and markdown for writing. This article on leaderhip is my excercise. 
 
 
