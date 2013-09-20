@@ -1,4 +1,4 @@
-#Leadership in Collaborative Environments
+# Leadership in Collaborative Environments
 **How running a coworking space teached me how to govern a flat organisation**
 
 First of all: there is no standard solution. There never is. Every set of people is unique as well as its culture shared values and beliefs. The challenge is to figure out how to build a collective equilibrium in which ideas can grow, collaboration is strong and everybody is happy
